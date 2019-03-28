@@ -6,7 +6,7 @@ This program was developed as a means for me to practice my programming skills i
 
 Original paper: I-Cheng Yeh, "Modeling of strength of high performance concrete using artificial neural networks," Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998).
 
-Feel free to play around with the hyperparameters of the program. Thank you :)
+Run the CDS.m file and feel free to play around with the hyperparameters of the program. Thank you :)
 
 E-mail: telebwe@gmail.com
 
